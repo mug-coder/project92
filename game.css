@@ -1,0 +1,48 @@
+body
+{
+	background:url(https://40obml2t8u691fd442y9pg71-wpengine.netdna-ssl.com/wp-content/uploads/login-page-bg.jpg);
+	text-align: center;
+}
+
+url{
+	width: 2000px;
+	height: 2000px;
+}
+
+.login_div1 , .login_div2{
+	background: rgb(255, 5, 5);
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+	width: 1300px;
+	height: 200px;
+}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+}
+
+#word{
+	width: 60%;
+}
+
+#word_display{
+	letter-spacing: 5px;
+}
+
+#output{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#gameh1{
+ color: red;
+}
+
+
